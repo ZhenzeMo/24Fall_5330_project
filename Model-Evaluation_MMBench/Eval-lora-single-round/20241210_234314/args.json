@@ -1,0 +1,19 @@
+{
+  "model_name_or_path": "/root/autodl-tmp/llava-llama-3-8b",
+  "data_path": "/root/autodl-tmp/MMBench_DEV_EN.tsv",
+  "work_dir": "/root/autodl-tmp/Eval-lora-single-round",
+  "llava": "/root/autodl-tmp/single-round-lora-hf",
+  "visual_encoder": "/root/autodl-tmp/clip-vit-large-patch14-336",
+  "visual_select_layer": -2,
+  "prompt_template": "llama3_chat",
+  "stop_words": [
+    "<|eot_id|>"
+  ],
+  "torch_dtype": "fp16",
+  "bits": null,
+  "bot_name": "BOT",
+  "offload_folder": null,
+  "max_new_tokens": 100,
+  "seed": 0,
+  "launcher": "none"
+}
