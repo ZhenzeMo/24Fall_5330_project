@@ -5,7 +5,7 @@ I try to write evey details in the below text.
 
 
 ## Training Flow
-![Training Flow](./flow.jpg)
+![Training Flow](./flow.png)
 
 ## Training Process
 ![Training Process](./train.jpg)
@@ -35,6 +35,7 @@ Please use version=0.2.20
 ### Process the Data and Augment
 - Split the data into train and test groups
 - Make two different types of data: single-round conversation and multi-round conversations
+- ![Data](./dataformat.png)
 
 <details>
 <summary>Example</summary>
@@ -140,7 +141,8 @@ xtuner chat internlm/internlm2-chat-7b \
   --prompt-template internlm2_chat \
   --image $IMAGE_PATH
 ```
-
+## Result
+![Result](./result.png)
 ## Appendix
 - PyTorch Version = 3.10
 
