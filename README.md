@@ -5,14 +5,14 @@ I try to write evey details in the below text.
 
 
 ## Training Flow
-![Training Flow](./flow.png)
+![Training Flow](./flow.png width=80%)
 
 ## Training Process
-![Training Process](./train.jpg)
+![Training Process](./train.jpg width=50%)
 
 ## Chat
-![Chat](./chat.jpg)
-![Chat](./chinese.jpg)
+![Chat](./chat.jpg width=50%)
+![Chat](./chinese.jpg width=50%)
 
 ## Model Prepare
 
