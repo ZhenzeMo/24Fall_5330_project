@@ -6,6 +6,7 @@ I try to write evey details in the below text.
 
 ## Training Flow
 ![Training Flow](./flow.png width=80%)
+<img src=./flow.png width=80% />
 
 ## Training Process
 ![Training Process](./train.jpg width=50%)
